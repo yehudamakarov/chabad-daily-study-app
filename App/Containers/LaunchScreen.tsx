@@ -18,7 +18,7 @@ export default class LaunchScreen extends Component {
                     <View style={styles.section} >
                         <Image source={Images.ready} />
                         <Text style={styles.sectionText}>
-                            Testing
+                            Testing123
             </Text>
                     </View>
 
