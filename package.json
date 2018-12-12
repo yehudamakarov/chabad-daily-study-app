@@ -52,6 +52,8 @@
     "@storybook/addons": "^3.4.0",
     "@storybook/channels": "^3.4.0",
     "@storybook/react-native": "^3.4.0",
+    "@types/react": "^16.7.13",
+    "@types/react-native": "^0.57.18",
     "babel-core": "6.26.0",
     "babel-eslint": "7.1.1",
     "babel-jest": "23.6.0",
@@ -60,6 +62,11 @@
     "babel-preset-react-native": "^3.0.2",
     "enzyme": "^3.2.0",
     "enzyme-adapter-react-16": "^1.1.0",
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1",
     "ignite-andross": "^3.0.1",
     "ignite-i18n": "^1.2.0",
     "ignite-redux-persist": "^1.1.0",
@@ -69,12 +76,14 @@
     "metro-react-native-babel-preset": "0.50.0",
     "mockery": "^2.1.0",
     "react-dom": "16.3.0",
+    "react-native-typescript-transformer": "^1.2.10",
     "react-test-renderer": "16.6.1",
     "reactotron-react-native": "^2.1.0",
     "reactotron-redux": "^2.1.0",
     "reactotron-redux-saga": "^2.1.0",
     "snazzy": "^8.0.0",
-    "standard": "10.0.2"
+    "standard": "10.0.2",
+    "typescript": "^3.2.2"
   },
   "jest": {
     "testMatch": [
